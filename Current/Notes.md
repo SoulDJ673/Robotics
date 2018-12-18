@@ -6,7 +6,7 @@ All notes will be formatted in the following way:
 >FirstName - Note
 
 Replies will be be in the same format.  They will be placed underneath the original comment and indented via pipes (|).
-<img ref=reply.png>Reply Example</img>
+<img src=reply.png alt="Reply Example"/>
 
 Ignore the > you see when opening the file, those are just for formatting so this looks better on GitHub.  Notes will not include >
 
