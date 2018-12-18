@@ -7,6 +7,7 @@ All notes will be formatted in the following way:
 
 Replies will be be in the same format.  They will be placed underneath the original comment and indented (via underscores).
 >OriginalCommentor - Note
+<br/>
 >_____Replier - Reply
 
 Ignore the > you see when opening the file, those are just for formatting so this looks better on GitHub.  Notes will not include >
