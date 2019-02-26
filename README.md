@@ -11,5 +11,6 @@ The Table of Contents below is organized from newest to oldest (top to bottom)
 | XChassis.c | /Old/ |
 | HBotwArm_Claw.c | /Old/ |
 
+<h3>I'm no longer in Robotics.  This repo will <strong>NOT</strong> be updated anymore</h3>
 
 ##### Devin Lloyd
